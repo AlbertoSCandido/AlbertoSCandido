@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Candido</h1>
 <h3 align="center">A software development student</h3>
 
-- 🔭 I’m currently working on **studying web development at Trube**
+- 🔭 I’m currently working on **studying web development at Trybe**
 
 - 🌱 I’m currently learning **HTML, CSS, JS and React**
 
