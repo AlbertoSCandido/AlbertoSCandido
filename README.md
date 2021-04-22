@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS and React**
 
-- 👨‍💻 All of my projects are available at [https://albertoscandido.github.io/github.io/](https://albertoscandido.github.io/github.io/)
+- 👨‍💻 All of my projects are available at [https://albertoscandido.github.io/](https://albertoscandido.github.io/)
 
 - ⚡ Fun fact **A 5MB hard drive weighed a ton in 1956**
 
