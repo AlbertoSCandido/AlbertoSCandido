@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/albertocandido/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymak2UgFfhaGPD7ai5h41jiGIuAPziOdcXg&usqp=CAU" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/albertocandido/" target="blank"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="css3" width="40" height="40"/> </a></a>
 <a href="https://instagram.com/albertocandido98" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXhapru0avAtjeQtTgT9A9TbTxlF0FEgP-gA&usqp=CAU" alt="albertocandido98" height="30" width="30" /></a>
 </p>
 
