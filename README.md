@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://albertoscandido.github.io/](https://albertoscandido.github.io/)
 
-- ⚡ Fun fact **A 5MB hard drive weighed a ton in 1956**
+- ⚡ Fun fact: **my first commit happened on my birthday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
