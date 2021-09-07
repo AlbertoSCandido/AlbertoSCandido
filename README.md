@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **studying web development at Trybe**
 
-- 🌱 I’m currently learning **HTML, CSS, JS and React**
+- 🌱 I’m currently learning **React, MySQL, MongoDB and Node**
 
 - 👨‍💻 All of my projects are available at [https://albertoscandido.github.io/](https://albertoscandido.github.io/)
 
