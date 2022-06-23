@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alberto Candido</h1>
 <h3 align="center">A software development student</h3>
 
-- 🔭 I’m currently working on **studying web development at Trybe**
+- 🔭 I’m currently working at **Itaú**
 
-- 🌱 I’m currently learning **React, MySQL, MongoDB and Node**
+- 🌱 I’m currently learning **Java / AWS**
 
 - 👨‍💻 All of my projects are available at [https://albertoscandido.github.io/](https://albertoscandido.github.io/)
 
